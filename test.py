@@ -1,4 +1,5 @@
-def myFunc:
-    print 'Hello'
+def myFunc():
+    print ('Hello')
+    print ('Hello again (new)')
 
-myFunc
+myFunc()
